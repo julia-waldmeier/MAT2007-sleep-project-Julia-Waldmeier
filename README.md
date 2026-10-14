@@ -169,3 +169,13 @@ reported sleep between people.
 The uncertainties are statistical only. Sleep is self-reported in whole
 hours, and the people are players of a mobile game, not a random sample of
 each country.
+
+## Conclusion
+
+Among these respondents, the least sleep is reported in Japan and eight other
+countries that cannot be statistically separated from it, and the most in
+Albania (45 to 55 minutes more). Men, people aged 45–57 and people commuting
+more than an hour report the least sleep. All differences are highly
+significant, but only the country differences are large compared with the
+spread between individuals. The full discussion is in the report:
+[`report/MAT2007_report_JW_i6341664-2.pdf`](report/MAT2007_report_JW_i6341664-2.pdf).

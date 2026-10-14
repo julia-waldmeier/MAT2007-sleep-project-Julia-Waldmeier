@@ -1,0 +1,13 @@
+"comparison","difference_minutes","formula_minutes","subsampling_minutes","ratio","mean_correlation","hedges_g"
+"Albania - Japan",54.6,3.52,3.6,1.02,-0.05,0.79
+"Albania - Philippines",53.6,2.67,2.66,0.99,-0.02,0.77
+"Albania - Israel",51.6,3.14,3.13,1,-0.01,0.77
+"Albania - Singapore",50.5,2.63,2.47,0.94,0.04,0.79
+"Albania - Indonesia",49.9,2.8,2.58,0.92,0.04,0.71
+"Albania - Malaysia",49.5,2.75,2.89,1.05,-0.07,0.72
+"Albania - Puerto Rico",47.3,3.19,3.22,1.01,-0.1,0.68
+"Albania - Thailand",45.4,2.91,3.01,1.03,-0.06,0.65
+"Albania - Saudi Arabia",44.5,3.38,3.27,0.97,-0.02,0.61
+"Women - Men",7.9,0.15,0.15,0.97,0.01,0.12
+"19-31 - 45-57",20.6,0.2,0.18,0.94,-0.02,0.32
+"< 30 min - > 60 min",10.7,0.19,0.18,0.95,-0.01,0.17

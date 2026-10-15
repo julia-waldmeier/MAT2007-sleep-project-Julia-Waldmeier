@@ -39,7 +39,7 @@
 
 \section*{Introduction}
 %Brief introduction about the topic, phrase the scientific question and place it in a broader context
-Adults are advised to sleep at least seven hours per night, and regularly sleeping less is associated with obesity, high blood pressure, cardiovascular disease and higher mortality~\cite{watson,itani}. In this report I ask: in which countries do people report the least sleep, and which groups of people, by age, sex, and length of commute, report the least? 
+Adults are advised to sleep at least seven hours per night, and regularly sleeping less is associated with obesity, high blood pressure, cardiovascular disease and higher mortality~\cite{watson}. In this report I ask: in which countries do people report the least sleep, and which groups of people, by age, sex, and length of commute, report the least? 
 
 \section*{Data sample}
 %Add here a brief description of the dataset
@@ -90,15 +90,13 @@ Sex & women vs.\ men & $7.9 \pm 0.1$ & $53\sigma$ & 0.12 & 58 of 63 & 9.1 \\
 \label{tab:groups}
 \end{table}
 
-\textbf{Conclusion.} Among these respondents, the least sleep is reported in Japan and eight other countries that cannot be statistically separated from it, and the most in Albania, 45 to 55 minutes more. Most countries, however, lie within 20~minutes of each other. In at least 58 of the 63 countries, the people who report the least sleep are men, people aged 45--57, and people with commutes longer than 60 minutes, and a multiple regression confirms these results. All differences are highly significant ($13\sigma$ or more) because the sample is very large, but only the country differences are large ($g \approx 0.6$ to $0.8$); the others are small compared with the spread of 1.06~hours between individuals. 
-
-\textbf{Limitations.} The quoted uncertainties are statistical only. Self-reporting and rounding due to whole hours add a systematic uncertainty that I did not quantify. The participants are players of a mobile game and not a random sample of each country, so the results describe these respondents and not whole populations. The regression assumes each effect is the same for everyone, although the gap between women and men changes with age. Finally, the differences are correlations, not causes. 
+\textbf{Conclusion.} Among these respondents, the least sleep is reported in Japan and eight other countries that cannot be statistically separated from it, and the most in Albania, 45 to 55 minutes more. Men, people aged 45-57 and people commuting over an hour report the least sleep, both inside almost every country and in the regression. All differences are highly significant ($13\sigma$ or more) because the sample is very large, but only the country differences are large ($g \approx 0.6$ to $0.8$); the others are small compared with the spread of 1.06~hours between individuals. These results have limitations: the uncertainties are statistical only, sleep is self-reported in whole hours, the players of a mobile game are not a random sample, and the differences are correlations, not causes. 
 
 \footnotesize
+\setlength{\bibsep}{0pt}
 \begin{thebibliography}{9}
 \raggedright
-\bibitem{watson} N.~F.~Watson \textit{et al.}, ``Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society'', \textit{Sleep} \textbf{38}, 843--844 (2015).
-\bibitem{itani} O.~Itani \textit{et al.}, ``Short sleep duration and health outcomes: a systematic review, meta-analysis, and meta-regression'', \textit{Sleep Medicine} \textbf{32}, 246--256 (2017). 
+\bibitem{watson} N.~F.~Watson \textit{et al.}, ``Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society'', \textit{Sleep} \textbf{38}, 843--844 (2015). 
 \bibitem{coutrot} A.~Coutrot \textit{et al.}, ``Reported sleep duration reveals segmentation of the adult life-course into three phases'',  
 \textit{Nature Communications} \textbf{13}, 7697 (2022).
 Data: \url{https://osf.io/j7sd4/?view_only=92c1aa56abfc4d0f99501c9f260fa324}
